@@ -85,43 +85,43 @@ astronaute_role est un attribut de l'association PARTICIPER, et non une donnée 
 
 
   
-Dictionnaire de données brutes
-Donnée	              Signification de la donnée	          Type	  Taille
-agence_id	            Identifiant de l'agence spatiale	    Entier	5 chiffres
-agence_nom	          Nom de l'agence spatiale	            Texte	  60 caractères
-agence_pays	          Pays d'origine de l'agence spatiale	  Texte	  40 caractères
-agence_date_creation  Date de création de l'agence spatiale Date	  10 caractères
-mission_id            Identifiant de la mission spatiale	  Entier	6 chiffres
-mission_nom	          Nom de la mission spatiale	          Texte	  80 caractères
-mission_date_debut	  Date de début de la mission	          Date	  10 caractères
-mission_date_fin	    Date de fin de la mission	            Date	  10 caractères
-mission_statut	      État actuel de la mission	            Texte	  30 caractères
-mission_type	        Type de mission spatiale	            Texte	  40 caractères
-site_id	              Identifiant du site de lancement	    Entier	6 chiffres
-site_nom	            Nom du site de lancement	            Texte	  80 caractères
-site_pays	            Pays où se situe le site de lancement	Texte	  40 caractères
-site_localisation	    Localisation du site de lancement	    Texte	  100 caractères
-lanceur_id	          Identifiant du lanceur	              Entier	5 chiffres
-lanceur_nom	          Nom du lanceur	                      Texte	  60 caractères
-lanceur_constructeur	Nom du constructeur du lanceur	      Texte	  60 caractères
-e_id	                Identifiant de l'engin spatial	      Entier	6 chiffres
-e_nom	                Nom de l'engin spatial	              Texte	  80 caractères
-e_type	              Type d'engin spatial	                Texte	  40 caractères
-e_masse	              Masse de l'engin spatial	            Nb décimal	8 chiffres
-astronaute_id	        Identifiant de l'astronaute	          Entier	6 chiffres
-astronaute_nom	      Nom de famille de l'astronaute	      Texte	  40 caractères
-astronaute_prénom	    Prénom de l'astronaute	              Texte	  40 caractères
-astronaute_nationalité	Nationalité de l'astronaute	        Texte	  40 caractères
-astronaute_role	      Rôle de l'astronaute lors de sa participation à la mission	Texte	40 caractères
-c_id	                Identifiant du corps céleste	        Entier	6 chiffres
-c_nom	                Nom du corps céleste	                Texte	  50 caractères
-c_type	              Type de corps céleste	                Texte	  30 caractères
-instrument_id	        Identifiant de l'instrument scientifique	Entier	6 chiffres
-instrument_nom	      Nom de l'instrument scientifique	    Texte  	80 caractères
-instrument_type	      Type d'instrument scientifique	      Texte	  40 caractères
-objectif_id	          Identifiant de l'objectif	            Entier	6 chiffres
-objectif_description	Description de l'objectif de la mission	Texte	150 caractères
-objectif_type	        Type d'objectif de la mission	Texte	40 caractères
+* Dictionnaire de données brutes
+* Donnée	              Signification de la donnée	          Type	  Taille
+* agence_id	            Identifiant de l'agence spatiale	    Entier	5 chiffres
+* agence_nom	          Nom de l'agence spatiale	            Texte	  60 caractères
+* agence_pays	          Pays d'origine de l'agence spatiale	  Texte	  40 caractères
+* agence_date_creation  Date de création de l'agence spatiale Date	  10 caractères
+* mission_id            Identifiant de la mission spatiale	  Entier	6 chiffres
+* mission_nom	          Nom de la mission spatiale	          Texte	  80 caractères
+* mission_date_debut	  Date de début de la mission	          Date	  10 caractères
+* mission_date_fin	    Date de fin de la mission	            Date	  10 caractères
+* mission_statut	      État actuel de la mission	            Texte	  30 caractères
+* mission_type	        Type de mission spatiale	            Texte	  40 caractères
+* site_id	              Identifiant du site de lancement	    Entier	6 chiffres
+* site_nom	            Nom du site de lancement	            Texte	  80 caractères
+* site_pays	            Pays où se situe le site de lancement	Texte	  40 caractères
+* site_localisation	    Localisation du site de lancement	    Texte	  100 caractères
+* lanceur_id	          Identifiant du lanceur	              Entier	5 chiffres
+* lanceur_nom	          Nom du lanceur	                      Texte	  60 caractères
+* lanceur_constructeur	Nom du constructeur du lanceur	      Texte	  60 caractères
+* e_id	                Identifiant de l'engin spatial	      Entier	6 chiffres
+* e_nom	                Nom de l'engin spatial	              Texte	  80 caractères
+* e_type	              Type d'engin spatial	                Texte	  40 caractères
+* e_masse	              Masse de l'engin spatial	            Nb décimal	8 chiffres
+* astronaute_id	        Identifiant de l'astronaute	          Entier	6 chiffres
+* astronaute_nom	      Nom de famille de l'astronaute	      Texte	  40 caractères
+* astronaute_prénom	    Prénom de l'astronaute	              Texte	  40 caractères
+* astronaute_nationalité	Nationalité de l'astronaute	        Texte	  40 caractères
+* astronaute_role	      Rôle de l'astronaute lors de sa participation à la mission	Texte	40 caractères
+* c_id	                Identifiant du corps céleste	        Entier	6 chiffres
+* c_nom	                Nom du corps céleste	                Texte	  50 caractères
+* c_type	              Type de corps céleste	                Texte	  30 caractères
+* instrument_id	        Identifiant de l'instrument scientifique	Entier	6 chiffres
+* instrument_nom	      Nom de l'instrument scientifique	    Texte  	80 caractères
+* instrument_type	      Type d'instrument scientifique	      Texte	  40 caractères
+* objectif_id	          Identifiant de l'objectif	            Entier	6 chiffres
+* objectif_description	Description de l'objectif de la mission	Texte	150 caractères
+* objectif_type	        Type d'objectif de la mission	Texte	40 caractères
 
 
 
