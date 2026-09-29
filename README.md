@@ -1,3 +1,4 @@
+
 # -ProjetDB_Chapotot_Razouk
 Premier miniprojet Base de donnée
 
@@ -115,12 +116,12 @@ astronaute_role	      Rôle de l'astronaute lors de sa participation à la missi
 c_id	                Identifiant du corps céleste	        Entier	6 chiffres
 c_nom	                Nom du corps céleste	                Texte	  50 caractères
 c_type	              Type de corps céleste	                Texte	  30 caractères
-instrument_id	Identifiant de l'instrument scientifique	Entier	6 chiffres
-instrument_nom	Nom de l'instrument scientifique	Texte	80 caractères
-instrument_type	Type d'instrument scientifique	Texte	40 caractères
-objectif_id	Identifiant de l'objectif	Entier	6 chiffres
+instrument_id	        Identifiant de l'instrument scientifique	Entier	6 chiffres
+instrument_nom	      Nom de l'instrument scientifique	    Texte  	80 caractères
+instrument_type	      Type d'instrument scientifique	      Texte	  40 caractères
+objectif_id	          Identifiant de l'objectif	            Entier	6 chiffres
 objectif_description	Description de l'objectif de la mission	Texte	150 caractères
-objectif_type	Type d'objectif de la mission	Texte	40 caractères
+objectif_type	        Type d'objectif de la mission	Texte	40 caractères
 
 
 
