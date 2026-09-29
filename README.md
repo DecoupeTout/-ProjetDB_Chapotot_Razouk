@@ -85,7 +85,9 @@ astronaute_role est un attribut de l'association PARTICIPER, et non une donnée 
 
 
   
-* Dictionnaire de données brutes
+Dictionnaire de données brutes
+
+
 * Donnée	              Signification de la donnée	          Type	  Taille
 * agence_id	            Identifiant de l'agence spatiale	    Entier	5 chiffres
 * agence_nom	          Nom de l'agence spatiale	            Texte	  60 caractères
